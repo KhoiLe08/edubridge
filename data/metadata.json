@@ -1,0 +1,148 @@
+[
+  {
+    "id": "LF01",
+    "topic": "linear_functions",
+    "display_topic": "Hàm số bậc nhất",
+    "title": "1.4.1: Linear Functions",
+    "author": "David Lippman and Melonie Rasmussen",
+    "publisher": "The OpenTextBookStore / LibreTexts",
+    "source_url": "https://math.libretexts.org/Courses/North_Hennepin_Community_College/Math_1120:_College_Algebra_(Lang)/01:_Meet_the_Functions/1.04:_Linear_Functions/1.4.01:_Linear_Functions",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "language": "en"
+  },
+  {
+    "id": "LF02",
+    "topic": "linear_functions",
+    "display_topic": "Hàm số bậc nhất",
+    "title": "1.4.2: Graphs of Linear Functions",
+    "author": "David Lippman and Melonie Rasmussen",
+    "publisher": "The OpenTextBookStore / LibreTexts",
+    "source_url": "https://math.libretexts.org/Courses/North_Hennepin_Community_College/Math_1120:_College_Algebra_(Lang)/01:_Meet_the_Functions/1.04:_Linear_Functions/1.4.02:_Graphs_of_Linear_Functions",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "language": "en"
+  },
+  {
+    "id": "LF03",
+    "topic": "linear_functions",
+    "display_topic": "Hàm số bậc nhất",
+    "title": "1.4.3: Modeling with Linear Functions",
+    "author": "David Lippman and Melonie Rasmussen",
+    "publisher": "The OpenTextBookStore / LibreTexts",
+    "source_url": "https://math.libretexts.org/Courses/North_Hennepin_Community_College/Math_1120:_College_Algebra_(Lang)/01:_Meet_the_Functions/1.04:_Linear_Functions/1.4.03:_Modeling_with_Linear_Functions",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "language": "en"
+  },
+  {
+    "id": "LF04",
+    "topic": "linear_functions",
+    "display_topic": "Hàm số bậc nhất",
+    "title": "1.1: Linear Functions and Models",
+    "author": "Mike May and Anneke Bart",
+    "publisher": "Saint Louis University / LibreTexts",
+    "source_url": "https://math.libretexts.org/Bookshelves/Applied_Mathematics/Business_Calculus_with_Excel_(May_and_Bart)/01:_Functions_Graphs_and_Excel/1.01:_Linear_Functions_and_Models",
+    "license": "CC BY-NC-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "language": "en"
+  },
+
+  {
+    "id": "PT01",
+    "topic": "pythagorean_theorem",
+    "display_topic": "Định lý Pythagoras",
+    "title": "4.4: Pythagorean Theorem",
+    "author": "Henry Africk",
+    "publisher": "CUNY / LibreTexts",
+    "source_url": "https://math.libretexts.org/Bookshelves/Geometry/Elementary_College_Geometry_(Africk)/04:_Similar_Triangles/4.04:_Pythagorean_Theorem",
+    "license": "CC BY-NC-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "language": "en"
+  },
+  {
+    "id": "PT02",
+    "topic": "pythagorean_theorem",
+    "display_topic": "Định lý Pythagoras",
+    "title": "6.2: Pythagorean Theorem for Right Triangles",
+    "author": "Chad Flinn",
+    "publisher": "BCcampus / LibreTexts",
+    "source_url": "https://math.libretexts.org/Courses/San_Joaquin_Delta_College/Technical_Mathematics_SJDC_1/06%3A_Geometry/6.02%3A_Pythagorean_Theorem_for_Right_Triangles",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "language": "en"
+  },
+  {
+    "id": "PT03",
+    "topic": "pythagorean_theorem",
+    "display_topic": "Định lý Pythagoras",
+    "title": "8.2: Triangles",
+    "author": "Morgan Chase",
+    "publisher": "OpenOregon / LibreTexts",
+    "source_url": "https://math.libretexts.org/Courses/Northeast_Wisconsin_Technical_College/College_Technical_Math_1A_%28NWTC%29/08%3A_Trigonometry/8.02%3A_Triangles",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "language": "en"
+  },
+  {
+    "id": "PT04",
+    "topic": "pythagorean_theorem",
+    "display_topic": "Định lý Pythagoras",
+    "title": "C-1.8 Use the Pythagorean Theorem of Right Angles",
+    "author": "Skilled Trades BC",
+    "publisher": "TRU Open Press",
+    "source_url": "https://c-tradeactivities-electrical-bcplumbingapprl1.pressbooks.tru.ca/chapter/c-1-8-use-the-pythagorean-theorem-of-right-angles/",
+    "license": "CC BY-NC-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "language": "en"
+  },
+
+  {
+    "id": "PR01",
+    "topic": "basic_probability",
+    "display_topic": "Xác suất cơ bản",
+    "title": "3.1: Sample Spaces and Probability",
+    "author": "Rupinder Sekhon and Roberta Bloom",
+    "publisher": "University of St. Thomas / LibreTexts",
+    "source_url": "https://math.libretexts.org/Courses/University_of_St._Thomas/Math_101%3A_Finite_Mathematics/03%3A_Probability/3.01%3A_Sample_Spaces_and_Probability",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "language": "en"
+  },
+  {
+    "id": "PR02",
+    "topic": "basic_probability",
+    "display_topic": "Xác suất cơ bản",
+    "title": "3.2: Mutually Exclusive Events and the Addition Rule",
+    "author": "Rupinder Sekhon and Roberta Bloom",
+    "publisher": "University of St. Thomas / LibreTexts",
+    "source_url": "https://math.libretexts.org/Courses/University_of_St._Thomas/Math_101%3A_Finite_Mathematics/03%3A_Probability/3.02%3A_Mutually_Exclusive_Events_and_the_Addition_Rule",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "language": "en"
+  },
+  {
+    "id": "PR03",
+    "topic": "basic_probability",
+    "display_topic": "Xác suất cơ bản",
+    "title": "3.3: Probability Using Tree Diagrams and Combinations",
+    "author": "Rupinder Sekhon and Roberta Bloom",
+    "publisher": "University of St. Thomas / LibreTexts",
+    "source_url": "https://math.libretexts.org/Courses/University_of_St._Thomas/Math_101%3A_Finite_Mathematics/03%3A_Probability/3.03%3A_Probability_Using_Tree_Diagrams_and_Combinations",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "language": "en"
+  },
+  {
+    "id": "PR04",
+    "topic": "basic_probability",
+    "display_topic": "Xác suất cơ bản",
+    "title": "3.4.1: Conditional Probability",
+    "author": "Rupinder Sekhon and Roberta Bloom",
+    "publisher": "University of St. Thomas / LibreTexts",
+    "source_url": "https://math.libretexts.org/Courses/University_of_St._Thomas/Math_101%3A_Finite_Mathematics/03%3A_Probability/3.04%3A_Conditional_Probability_and_Independent_Events/3.4.01%3A_Conditional_Probability",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "language": "en"
+  }
+]

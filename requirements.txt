@@ -1,0 +1,12 @@
+beautifulsoup4==4.15.0
+chromadb==1.5.9
+google-genai==2.26.0
+langchain-text-splitters==1.1.2
+python-dotenv==1.2.4
+requests==2.34.2
+requests-oauthlib==2.0.0
+requests-toolbelt==1.0.0
+sentence-transformers==6.1.0
+streamlit==1.64.0
+torch==2.14.1
+torchvision==0.29.1
