@@ -13,6 +13,6 @@ Prototype hiện hỗ trợ:
 - Định lý Pythagoras
 - Xác suất cơ bản
 
-Demo: [dán link Streamlit]
+Demo: https://pglppswthwdaf7qpgwdapp4.streamlit.app/
 
 Nguồn và license được lấy trực tiếp từ metadata của tài liệu đã retrieve, không do LLM tự tạo.
