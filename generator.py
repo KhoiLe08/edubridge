@@ -114,6 +114,17 @@ QUY TẮC BẮT BUỘC:
   cảnh chỉ là tài liệu tham khảo.
 - Viết rõ ràng, chính xác và phù hợp với người học.
 
+QUY TẮC ĐỊNH DẠNG TOÁN HỌC:
+- Sử dụng Markdown hợp lệ.
+- Biểu thức toán học trong dòng phải được đặt trong dấu $...$.
+- Phương trình cần hiển thị riêng phải nằm trên dòng riêng và được đặt trong
+  dấu $$...$$.
+- Không bao giờ xuất lệnh LaTeX thô như \\frac hoặc \\dfrac khi chưa đặt bên
+  trong dấu phân cách toán học.
+- Ưu tiên \\frac thay vì \\dfrac.
+- Nếu cần, dùng dạng toán học đơn giản, dễ đọc như -2/3 thay cho định dạng
+  không được hỗ trợ.
+
 ĐẦU RA PHẢI DÙNG ĐÚNG CẤU TRÚC MARKDOWN SAU:
 
 # Tiêu đề
@@ -138,6 +149,11 @@ QUY TẮC BẮT BUỘC:
 NGỮ CẢNH TRUY XUẤT:
 {context}
 """
+
+
+def _normalize_math_output(text: str) -> str:
+    """Normalize a small LaTeX compatibility issue in generated Markdown."""
+    return text.replace(r"\dfrac", r"\frac")
 
 
 def _is_transient_error(exc: Exception) -> bool:
@@ -220,7 +236,7 @@ def _generate_with_fallback(client: genai.Client, prompt: str) -> str:
                 if not response_text or not response_text.strip():
                     failures.append(f"{model_name}: empty response")
                     break
-                return response_text
+                return _normalize_math_output(response_text)
             except Exception as exc:
                 description = _error_description(exc)
 
